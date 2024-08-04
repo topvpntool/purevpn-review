@@ -2,6 +2,12 @@
 
 中国VPN市场上众多的品牌中，PureVPN备受用户瞩目。本文将从用户体验、功能特点、稳定性和安全性等多个角度评测PureVPN的表现。
 
+---
+
+[PureVPN官网](https://topvpntool.com/go/purevpn)
+
+---
+
 一、用户体验
 
 PureVPN提供了直观易用的用户界面，操作简单直观。用户无需担心复杂的设置过程，只需几步简单操作，即可实现连线自由访问。同时，PureVPN还提供了多种平台和设备的支持，如Windows、Mac、iOS、Android等。用户可以在多个终端上畅享翻墙便利。
